@@ -1,1 +1,6 @@
-
+repos:
+  ###########
+  # Manifest
+  ###########
+  - dest: manifests
+    url: https://github.com/effective-microservice-development/manifests.git
